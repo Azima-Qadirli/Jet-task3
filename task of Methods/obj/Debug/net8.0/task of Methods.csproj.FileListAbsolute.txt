@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\bin\Debug\net8.0\task of Methods.exe
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\bin\Debug\net8.0\task of Methods.deps.json
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\bin\Debug\net8.0\task of Methods.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\bin\Debug\net8.0\task of Methods.dll
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\bin\Debug\net8.0\task of Methods.pdb
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.dll
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\refint\task of Methods.dll
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.pdb
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\task of Methods.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\task of Methods\task of Methods\obj\Debug\net8.0\ref\task of Methods.dll
